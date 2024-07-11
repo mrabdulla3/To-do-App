@@ -22,6 +22,12 @@ Categorize: Choose the appropriate category for your task.
 Add a Task: Enter your task in TextField.
 Save: Click on the "Add Task" button and save your task.
 Edit: If have any mistake you can edit the task.
+
+Screenshots:
+
+![IMG_20240711_103511](https://github.com/mrabdulla3/To-do-App/assets/129673628/da48939e-226b-4ebc-bae2-02083b1c5047)
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
